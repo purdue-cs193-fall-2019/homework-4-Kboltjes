@@ -6,5 +6,5 @@ The command 'git status' retrieves the differences between your local repository
 It tells you what branch you are on. Additionally, it tells you if you need to pull, commit, or push changes.
 Task 2:
 // Under this line, describe the difference between Git and GitHub
-Git is your local repository. GitHub is the central repository. People can't see changes you make to your 
-local repository, but they can see changes made on the central repository.
+Git is your local repository. GitHub is the central repository that everyone can see. 
+People can't see changes you make to your local repository, but they can see changes made on the central repository.
